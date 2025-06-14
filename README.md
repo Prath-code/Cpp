@@ -5,3 +5,8 @@
 ## Intro to C++ Programming
 - History
 - Difference between C and C++
+
+## Beginning with C++
+- cout & cin
+- Control Structure & Looping
+- Arrays & Strings
