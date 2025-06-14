@@ -1,0 +1,33 @@
+Difference between C language and C++
+
+C Language  => printf("Message");
+
+    C++         => cout << "Message";
+    cout = object;
+    << = insertion operator;
+
+    C Language  => scanf("%d", &a);
+    C++         => cin >> a;
+    cin = object;
+    >> = extraction operator;
+
+
+    C Language  => printf("Prath\n");
+    C++         => cout << "Prath\n";
+    C++         => cout << "Prath" << endl;
+    endl = end of line;
+
+    C Language  => printf("%d", a);
+    C++         => cout << a;
+
+    C Language  => printf("%d %d", a, b);
+    C++         => cout << a << " " << b;
+
+    C Language  => printf("%d + %d = %d", a, b, c);
+    C++         => cout << a << " + " << b << " = " << c;
+
+    C Language  => #include <stdio.h>;
+    C Language  => // Nothing to take permission to include <stdio.h>;
+    C++         => #include <iostream>;
+    C++         => using namespace std;
+    
