@@ -2,11 +2,18 @@
 
 ## Chapter 1: Introduction to C++
 
-## Intro to C++ Programming
+### Lec_1.1 - Intro to C++ Programming
 - History
 - Difference between C and C++
 
-## Beginning with C++
+### Lec_1.2 - Beginning with C++
 - cout & cin
 - Control Structure & Looping
 - Arrays & Strings
+
+## Chapter 2: Control Flow and Functions
+
+### Lec_2.1 - Expression & Control Flow
+- Special assignments expression
+- Type conversion
+- Reference variables
