@@ -24,3 +24,7 @@
 - Take something and return nothing (TSRN)
 - Take nothing and return something (TNRS)
 - Take something and return something (TSRS)
+
+### Lec_2.3 - Recursion and Inline Keyword
+- Recursion
+- Inline keyword
