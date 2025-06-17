@@ -37,3 +37,10 @@
 - Polymorphism
 - Class and object
 - Access modifiers
+
+## Chapter 4: Encapsulation
+
+- Private attributes
+- Setters and Getters
+- this keyword
+- Nested member functions
