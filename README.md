@@ -28,3 +28,15 @@
 ### Lec_2.3 - Recursion and Inline Keyword
 - Recursion
 - Inline keyword
+
+## Chapter 3: Object-Oriented Programming (OOP)
+
+### Lec_3.1 - Intro to OOPs Concept
+- Data abstraction
+- Data encapsulation
+- Inheritance
+- Polymorphism
+
+### Lec_3.2 - OOPs Programming
+- Class and object
+- Access modifiers
