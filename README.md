@@ -51,3 +51,7 @@
 - Static Data Members
 - Static Member Functions
 - Scope Resolution Operator
+
+### Lec_5.2 - OOP in Detail
+- Arrays of Objects
+- Friend Functions
