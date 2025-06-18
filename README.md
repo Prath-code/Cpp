@@ -55,3 +55,8 @@
 ### Lec_5.2 - OOP in Detail
 - Arrays of Objects
 - Friend Functions
+
+## Chapter 6: Constructors and Destructors
+
+### Lec_6.1 - Constructors
+- Constructor concept
