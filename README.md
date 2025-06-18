@@ -44,3 +44,10 @@
 - Setters and Getters
 - this keyword
 - Nested member functions
+
+## Chapter 5: Static keyword and OOP in detail
+
+### Lec_5.1 - Static Keyword
+- Static Data Members
+- Static Member Functions
+- Scope Resolution Operator
