@@ -74,3 +74,14 @@
   object.
 - Destructor: Cleans up resources
   when an object goes out of scope.
+
+## Chapter 7: Inheritance and Polymorphism
+
+### Lec_7.1 - Inheritance and Types of Inheritance
+- Inheritance Concept
+- Types of Inheritance:
+  1. Single Inheritance
+  2. Multiple Inheritance
+  3. Multilevel Inheritance
+  4. Hierarchical Inheritance
+  5. Hybrid Inheritance
