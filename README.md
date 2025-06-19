@@ -60,3 +60,17 @@
 
 ### Lec_6.1 - Constructors
 - Constructor concept
+- Types of constructors:
+  1. Default Constructor: Initializes
+  an object with default values.
+  2. Parameterized Constructor:
+  Initializes an object with specific
+  values.
+
+### Lec_6.2 - Destructors
+- Types of Constructors:
+  1. Copy Constructor: Creates a new
+  object as a copy of an existing
+  object.
+- Destructor: Cleans up resources
+  when an object goes out of scope.
