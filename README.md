@@ -83,3 +83,16 @@
   1. Single Inheritance
   2. Multiple Inheritance
   3. Hierarchical Inheritance
+
+### Lec_7.2 - Types of Inheritance
+- Types of Inheritance (continued):
+  4. Multilevel Inheritance
+  5. Hybrid Inheritance
+- Types of Access Modifiers:
+  1. Public
+  2. Protected
+  3. Private
+- Inheritance in C++:
+  1. Public Inheritance
+  2. Protected Inheritance
+  3. Private Inheritance
