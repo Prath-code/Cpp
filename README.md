@@ -77,6 +77,7 @@
 
 ## Chapter 7: Inheritance and Polymorphism
 
+## Inheritance
 ### Lec_7.1 - Inheritance and Types of Inheritance
 - Inheritance Concept
 - Types of Inheritance:
@@ -96,3 +97,8 @@
   1. Public Inheritance
   2. Protected Inheritance
   3. Private Inheritance
+
+## Polymorphism
+### Lec_7.3 - Method Overloading and Method Overriding
+- Method Overloading(ML)
+- Method Overriding(MR)
