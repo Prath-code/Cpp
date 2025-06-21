@@ -116,5 +116,16 @@
 - Method Overriding(MR)
 
 ### Lec_7.4 - Virtual Functions and Pure Virtual Functions
+
 - Virtual Functions
 - Pure Virtual Functions(Abstract class)(PVF)
+
+## Chapter 8: Operator Overloading
+
+### Lec_8.1 - Binary Operator Overloading
+
+- Binary Operator Overloading
+
+### Lec_8.2 - Unary Operator Overloading
+
+- Unary Operator Overloading
