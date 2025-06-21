@@ -129,3 +129,8 @@
 ### Lec_8.2 - Unary Operator Overloading
 
 - Unary Operator Overloading
+
+## Chapter 9: Exception Handling
+
+- try(), throw() & catch() = (TTC)
+- General Exception Handling = (GEH)
