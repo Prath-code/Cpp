@@ -114,3 +114,7 @@
 
 - Method Overloading(ML)
 - Method Overriding(MR)
+
+### Lec_7.4 - Virtual Functions and Pure Virtual Functions
+- Virtual Functions
+- Pure Virtual Functions(Abstract class)(PVF)
