@@ -41,7 +41,11 @@
     "new": "cpp",
     "sstream": "cpp",
     "stdexcept": "cpp",
-    "streambuf": "cpp"
+    "streambuf": "cpp",
+    "list": "cpp",
+    "set": "cpp",
+    "map": "cpp",
+    "unordered_set": "cpp"
   },
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",
